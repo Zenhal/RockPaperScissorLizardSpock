@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73f95818f1d044577a0ca07cf12c3dfd, type: 3}
+  m_Name: PrefabContainer
+  m_EditorClassIdentifier: 
+  prefabs:
+  - name: Rock
+    prefab: {fileID: 2271492288211359995, guid: c43e4532f06fd454794816d93d254a6e, type: 3}
+  - name: Paper
+    prefab: {fileID: 4120356469936964630, guid: 2db8fd46a524f4da48bdf703ebfe99ca, type: 3}
+  - name: Scissors
+    prefab: {fileID: 5554433248277197070, guid: dc62266d46781498a90dfef27f0e0c65, type: 3}
+  - name: Lizard
+    prefab: {fileID: 8289747256121562890, guid: c5181b1b257b14f57b61297af788a758, type: 3}
+  - name: Spock
+    prefab: {fileID: 9034645940293514684, guid: 8c689b508ecf04e1a94a2462b812ebaf, type: 3}
